@@ -8,3 +8,4 @@ nombres2 = ["Ana", "Luis", "Carlos", "Marta"]
 
 imprimir_lista(nombres)
 imprimir_lista2(nombres)
+imprimir_lista3(nombres)
