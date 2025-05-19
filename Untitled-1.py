@@ -4,4 +4,7 @@ def imprimir_lista(mi_lista):
 
 # Ejemplo de uso
 nombres = ["Ana", "Luis", "Carlos", "Marta"]
+nombres2 = ["Ana", "Luis", "Carlos", "Marta"]
+
 imprimir_lista(nombres)
+imprimir_lista2(nombres)
